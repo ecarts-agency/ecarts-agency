@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi there 👋
-
 I'm **Waseem ahmad**, Founder of **Ecarts Agency** — where we help brands build powerful digital ecosystems.
 
 At **Ecarts**, we build high-performance **[eCommerce mobile apps](https://ecarts.agency/)**, conversion-optimized websites, and scalable digital solutions.  
