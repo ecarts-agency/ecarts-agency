@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hi there 👋
+
+I'm **Waseem ahmad**, Founder of **Ecarts Agency** — where we help brands build powerful digital ecosystems.
+
+At **Ecarts**, we build high-performance **[eCommerce mobile apps](https://ecarts.agency/)**, conversion-optimized websites, and scalable digital solutions.  
+We also provide full-stack **[digital marketing services](https://ecarts.agency/)** and brand growth systems.
+
+### 🚀 What I Do
+- Create cross-platform mobile applications
+- Build responsive & scalable web apps  
+- Develop high-converting **[eCommerce websites](https://ecarts.agency/)**    
+- UI/UX optimization  
+- Growth-driven digital branding  
+
+### 📫 Reach Me  
+Let’s build something impactful → **[Ecarts Agency](https://ecarts.agency/)**
