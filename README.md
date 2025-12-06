@@ -1,31 +1,21 @@
 ## Hi there 👋
 
-<!--
-**ecarts-agency/ecarts-agency** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Waseem Ahmad**, Founder of **Ecarts** — the mobile commerce growth partner for scaling brands.
 
-Here are some ideas to get you started:
+At **[Ecarts](https://ecarts.agency/)**, we moved beyond just "building apps." We engineer revenue channels. We help e-commerce brands fix revenue leakage, improve conversion rates, and dominate the mobile landscape through custom technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What We Solve
+- **Mobile Commerce Strategy:** Transforming standard apps into high-converting revenue assets.
+- **Custom Development:** Building scalable **[eCommerce architectures](https://ecarts.agency/)** (MERN Stack & React Native).
+- **Revenue Optimization:** Identifying and fixing leakage in the user journey.
+- **Growth Ecosystems:** Full-stack digital marketing and brand systems.
 
-I'm **Waseem ahmad**, Founder of **Ecarts Agency** — where we help brands build powerful digital ecosystems.
+### 🛠 Tech Stack
+- **Mobile:** React Native
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **Web:** Next.js, React
 
-At **Ecarts**, we build high-performance **[eCommerce mobile apps](https://ecarts.agency/)**, conversion-optimized websites, and scalable digital solutions.  
-We also provide full-stack **[digital marketing services](https://ecarts.agency/)** and brand growth systems.
-
-### 🚀 What I Do
-- Create cross-platform mobile applications
-- Build responsive & scalable web apps  
-- Develop high-converting **[eCommerce websites](https://ecarts.agency/)**    
-- UI/UX optimization  
-- Growth-driven digital branding  
-
-### 📫 Reach Me  
-Let’s build something impactful → **[Ecarts Agency](https://ecarts.agency/)**
+### 📫 Connect
+Stop selling apps, start selling outcomes.
+Partner with us → **[Ecarts](https://ecarts.agency/)**
