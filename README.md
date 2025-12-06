@@ -17,5 +17,4 @@ At **[Ecarts](https://ecarts.agency/)**, we moved beyond just "building apps." W
 - **Web:** Next.js, React
 
 ### 📫 Connect
-Stop selling apps, start selling outcomes.
 Partner with us → **[Ecarts](https://ecarts.agency/)**
